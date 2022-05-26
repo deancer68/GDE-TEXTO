@@ -2,5 +2,12 @@ Este texto es para practicar Git
 y subir un repositorio
 no se que falla cuado lo subo por visual
 no reconoce las carpetas
-ok provemos esto
+ok probemos esto
 toda via no 
+espero y si suba 
+se hizo cambio en linea 7 para revisar el proceso 
+aaaaaaaaaaaaaaaaaaa
+hay que seguir 
+y lo guardamos
+
+
