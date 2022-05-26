@@ -1,0 +1,6 @@
+Este texto es para practicar Git
+y subir un repositorio
+no se que falla cuado lo subo por visual
+no reconoce las carpetas
+ok provemos esto
+toda via no 
